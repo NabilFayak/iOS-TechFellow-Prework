@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Allowing user to split total bill amongst however many individuals they decide.
+- [X] Allowing user to split total bill amongst however many individuals they decide.
 
 ## Video Walkthrough
 
